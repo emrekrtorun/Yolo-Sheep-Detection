@@ -3,7 +3,7 @@ from Detector import Detector
 
 if __name__ == '__main__':
     Sheep = Detector(
-        pth_weights='C:/Users/emre_/Downloads/yolov3_training_3000.weights', # path to weights file
+        pth_weights='Sheep_Detect/yolov3_training.weights', # path to weights file
         pth_cfg='Sheep_Detect/yolov3_testing.cfg', # path to test config file
         pth_classes='Sheep_Detect/classes.txt') # path to classes.txt
 
