@@ -1,6 +1,6 @@
 # Yolo-Sheep-Detection
 
-*This project aims to detect sheep objects in a picture or video. In order to do that an object detection model is built using Yolo-v3. Training is done in Google Colab and train file will be added later. COCO train/val2014 images are used for training*
+*This project aims to detect sheep objects in a picture or video. In order to do that an object detection model is built using Yolo-v3. Training is done in Google Colab. COCO train/val2014 images are used for training*
 
 ### Handling Dataset
 
